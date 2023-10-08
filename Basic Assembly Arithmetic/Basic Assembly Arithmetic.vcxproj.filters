@@ -6,4 +6,7 @@
   <ItemGroup>
     <CustomBuild Include="MyAssembly.asm" />
   </ItemGroup>
+  <ItemGroup>
+    <Object Include="MyAssembly.obj" />
+  </ItemGroup>
 </Project>
