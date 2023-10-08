@@ -8,6 +8,8 @@
 
 doit proc
 
+	; this is a comment i can type whatever i like after a semicolon and assembler will ignore it
+
 	mov eax, 8
 	mov ebx, eax
 
