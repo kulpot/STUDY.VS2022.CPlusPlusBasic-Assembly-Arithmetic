@@ -4,6 +4,6 @@
     <ClCompile Include="Mainer.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="MyAssembly.asm" />
+    <CustomBuild Include="MyAssembly.asm" />
   </ItemGroup>
 </Project>
