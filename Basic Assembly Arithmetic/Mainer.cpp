@@ -11,3 +11,7 @@ void main()
 {
 	doit();
 }
+
+void doit()
+{
+}
