@@ -12,16 +12,9 @@ doit proc
 	; 8 + 4 - 2 + 3 = 13
 
 	mov eax, 8
-	mov ebx, 4
-	mov ecx, 2
-	mov edx, 3
-
-	add ebx, eax
-	sub ebx, ecx
-	add edx, ebx
-
-	;mov eax, 8
-	;mov ebx, eax
+	add eax, 4
+	sub eax, 2
+	add eax, 3
 
 doit endp
 
